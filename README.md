@@ -10,9 +10,10 @@ Ferramenta que filtra as atas da sessão do impeachment deixando apenas o conte�
 - [ ] Apenas caracteres alfanuméricos
 - [ ] Sem repetições de palavras
 - [ ] Contar número de ocorrências por palavra
-- [ ] Filtrar por estado/partido
+- [X] Filtrar por estado/partido
 - [ ] Descobrir quais deputados falaram uma dada palavra
 
 ## Créditos
 - ~gustavohfts @IME-USP
 - ~victorsenam @IME-USP
+- ~ctlente     @IME-USP
