@@ -19,5 +19,5 @@ Ferramenta que filtra as atas da sessão do impeachment deixando apenas o conte�
 - [ ] Descobrir quais deputados falaram uma dada palavra
 
 ## Créditos
-~gustavohfts @IME-USP
-~victorsenam @IME-USP
+- ~gustavohfts @IME-USP
+- ~victorsenam @IME-USP
