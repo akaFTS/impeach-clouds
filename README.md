@@ -10,7 +10,7 @@ Ferramenta que filtra as atas da sessão do impeachment deixando apenas o conte�
 - pegar o conteúdo dentro da pasta output
 
 ## A Fazer
-- [ ] Garimpar todas as atas
+- [X] Garimpar todas as atas
 - Permitir novos modos de extração de dados:
 - [ ] Apenas caracteres alfanuméricos
 - [ ] Sem repetições de palavras
